@@ -1,0 +1,1 @@
+It'sused to practice git rm
